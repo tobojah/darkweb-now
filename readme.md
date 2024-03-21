@@ -4,7 +4,7 @@
 
 </center>
 
-# Darknеt NOW!
+# Darknеt NOW
 
 > A curated list of verified `.onion` links of various Onion Services on darknеt
 
