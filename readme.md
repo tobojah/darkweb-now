@@ -30,19 +30,19 @@
 
 *Established Darknet markets that have been operating for a while*
 
-- [Abacus Market](http://abacusdkwoqwaqbcgqysrgljwfthccrrxpiezy2ivbk3stg5xji7grad.onion) - `http://abacusdkwoqwaqbcgqysrgljwfthccrrxpiezy2ivbk3stg5xji7grad.onion`
-
 - [Incognito Market](http://incognifa2raciosuq7keui3ynbgrpgisi6almaheo2ll4egofm3iwad.onion) - `http://incognifa2raciosuq7keui3ynbgrpgisi6almaheo2ll4egofm3iwad.onion`
-
-- [Nemesis Market](http://g6wvfmvud3gis46qcobtmmfra5n5cn7hkm7qzr2cvk2vtkazkov6cjqd.onion) - `http://g6wvfmvud3gis46qcobtmmfra5n5cn7hkm7qzr2cvk2vtkazkov6cjqd.onion`
-
-- [MGM Grand Market](http://duysanjefas5el6waowtgn3f3oaiomvbokkgabfku2kxy5g2wzjwxhqd.onion) - `http://duysanjefas5el6waowtgn3f3oaiomvbokkgabfku2kxy5g2wzjwxhqd.onion`
-
-- [Kerberos Market](http://kerberoh7s6ij5gxzdfqetvrlkdipwlh7h74d2sqxmfpjebdla2kuhad.onion) - `http://kerberoh7s6ij5gxzdfqetvrlkdipwlh7h74d2sqxmfpjebdla2kuhad.onion`
 
 - [Ares Market](http://sn2sfdpbsq6lpejfsr4lubhc2c4c4cdr3e6jzjmgslq2pchdjs5z5rad.onion) - `http://sn2sfdpbsq6lpejfsr4lubhc2c4c4cdr3e6jzjmgslq2pchdjs5z5rad.onion`
 
+- [MGM Grand Market](http://duysanjefas5el6waowtgn3f3oaiomvbokkgabfku2kxy5g2wzjwxhqd.onion) - `http://duysanjefas5el6waowtgn3f3oaiomvbokkgabfku2kxy5g2wzjwxhqd.onion`
+
 - [DrugHub Market](http://drughub7ksxhxu5m2tge3rvs7jlh4ng3g3hybeqhjoxxr2e7yqa4tyyd.onion) - `http://drughub7ksxhxu5m2tge3rvs7jlh4ng3g3hybeqhjoxxr2e7yqa4tyyd.onion`
+
+- [Abacus Market](http://abacusdkwoqwaqbcgqysrgljwfthccrrxpiezy2ivbk3stg5xji7grad.onion) - `http://abacusdkwoqwaqbcgqysrgljwfthccrrxpiezy2ivbk3stg5xji7grad.onion`
+
+- [Nemesis Market](http://g6wvfmvud3gis46qcobtmmfra5n5cn7hkm7qzr2cvk2vtkazkov6cjqd.onion) - `http://g6wvfmvud3gis46qcobtmmfra5n5cn7hkm7qzr2cvk2vtkazkov6cjqd.onion`
+
+- [Kerberos Market](http://kerberoh7s6ij5gxzdfqetvrlkdipwlh7h74d2sqxmfpjebdla2kuhad.onion) - `http://kerberoh7s6ij5gxzdfqetvrlkdipwlh7h74d2sqxmfpjebdla2kuhad.onion`
 
 - [Super Market](http://superxxvnrpwc6e3m27eygg4iglah7egvszp67ks4ni7up3nwraet7yd.onion) - `http://superxxvnrpwc6e3m27eygg4iglah7egvszp67ks4ni7up3nwraet7yd.onion`
 
