@@ -36,6 +36,8 @@
 
 - [MGM Grand Market](http://duysanjefas5el6waowtgn3f3oaiomvbokkgabfku2kxy5g2wzjwxhqd.onion) - `http://duysanjefas5el6waowtgn3f3oaiomvbokkgabfku2kxy5g2wzjwxhqd.onion`
 
+- [Nexus Market](http://nexusaxdv7owwfslpqbav5yaj5djg7akwtfngrv3ft3j56cguzwvbiqd.onion) - `http://nexusaxdv7owwfslpqbav5yaj5djg7akwtfngrv3ft3j56cguzwvbiqd.onion`
+
 - [Super Market](http://superxxvnrpwc6e3m27eygg4iglah7egvszp67ks4ni7up3nwraet7yd.onion) - `http://superxxvnrpwc6e3m27eygg4iglah7egvszp67ks4ni7up3nwraet7yd.onion`
 
 - [DrugHub Market](http://drughub7ksxhxu5m2tge3rvs7jlh4ng3g3hybeqhjoxxr2e7yqa4tyyd.onion) - `http://drughub7ksxhxu5m2tge3rvs7jlh4ng3g3hybeqhjoxxr2e7yqa4tyyd.onion`
