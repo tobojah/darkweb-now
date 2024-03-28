@@ -44,6 +44,8 @@
 
 - [Cypher Market](http://6c5qaeiyynos6ujsvnyiewfmbdqneki74zozxzsxhcc2nahctmewjxad.onion) - `http://6c5qaeiyynos6ujsvnyiewfmbdqneki74zozxzsxhcc2nahctmewjxad.onion`
 
+- [Ares Market](http://sn2sfdpbsq6lpejfsr4lubhc2c4c4cdr3e6jzjmgslq2pchdjs5z5rad.onion) - `http://sn2sfdpbsq6lpejfsr4lubhc2c4c4cdr3e6jzjmgslq2pchdjs5z5rad.onion`
+
 - [Dark Matter Market](http://darkma3j6xgdwqzlc2ijnopkgegzqappavrrwk436gwox5gn5kuj6tyd.onion) - `http://darkma3j6xgdwqzlc2ijnopkgegzqappavrrwk436gwox5gn5kuj6tyd.onion`
 
 - [Go Fish Market](http://gofish7vejdpnherlvlexdo5eovhknhyyfkzzqk6eu4fosoibzd6asyd.onion) - `http://gofish7vejdpnherlvlexdo5eovhknhyyfkzzqk6eu4fosoibzd6asyd.onion`
@@ -51,8 +53,6 @@
 - [Nemesis Market](http://g6wvfmvud3gis46qcobtmmfra5n5cn7hkm7qzr2cvk2vtkazkov6cjqd.onion) - `http://g6wvfmvud3gis46qcobtmmfra5n5cn7hkm7qzr2cvk2vtkazkov6cjqd.onion`
 
 - [Kerberos Market](http://kerberoh7s6ij5gxzdfqetvrlkdipwlh7h74d2sqxmfpjebdla2kuhad.onion) - `http://kerberoh7s6ij5gxzdfqetvrlkdipwlh7h74d2sqxmfpjebdla2kuhad.onion`
-
-- [Ares Market](http://sn2sfdpbsq6lpejfsr4lubhc2c4c4cdr3e6jzjmgslq2pchdjs5z5rad.onion) - `http://sn2sfdpbsq6lpejfsr4lubhc2c4c4cdr3e6jzjmgslq2pchdjs5z5rad.onion`
 
 - [Archetyp Market](http://arche442iyjshuhzxgm2crkhoswvshdx2bko5vkvvbnkoeo3fr6liuqd.onion) - `http://arche442iyjshuhzxgm2crkhoswvshdx2bko5vkvvbnkoeo3fr6liuqd.onion`
 
